@@ -13,4 +13,8 @@ Steps performed in Notebook -
 -  Let's make predictions on test set
 -  Model Evaluation
 
-Request - it would be great if you open notebook in google colab (link is mentioned below and in notebook also).
+Note - If you open notebook in google colab (link is mentioned below and in notebook also).
+
+Problem with link - You might not see outputs, for that it's better to see in github. 
+
+https://colab.research.google.com/github/Nidhi-Mantri/MLR_Bike_Assignment/blob/main/MLR_Bike_Assignment.ipynb
